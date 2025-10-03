@@ -4,7 +4,8 @@ A minimal drag-and-drop board built with **HTML**, **CSS**, and **JavaScript**.
 ## 🔗 Live Demo  
 [🔗 View on GitHub Pages](https://clrnlvly.github.io/Drag-And-Drop-Board/)
 
-##Youtube: https://youtu.be/6Jjkn1n9PCw
+## Video Demo:
+https://drive.google.com/file/d/1cD0TecDveeHbF_Latn1jJQ3l3nXXSvmT/view?usp=drive_link
 ---
 
 ## ✨ Features
